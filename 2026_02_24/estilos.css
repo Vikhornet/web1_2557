@@ -1,0 +1,17 @@
+/*selector general de H1*/
+
+h1{
+    color: chocolate;
+}
+.título_azul{
+    color: blue;
+}
+.título_amarillo{
+    color: yellow;
+}
+.gg2ez{
+    color: red;
+    border: 1px solid black;
+    background-color: yellow;
+    box-shadow: 10px 5px 5px,   rgb(219, 87, 68);
+}
