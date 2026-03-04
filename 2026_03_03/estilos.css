@@ -1,0 +1,64 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+
+/*Encabezado*/
+
+header{
+    background-color: #303030;
+    color: white;
+    padding: 10px, 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo h1{
+    margin: 0px;
+    padding: 30px;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0px;
+    padding-right: 40px;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.anclas{
+    color: #FFBE0A;
+}
+
+section{
+    padding: 20px;
+    margin: 10px;
+    background-color: #FF0569;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px gray;
+}
+
+h2{
+    color: white;
+}
+
+footer{
+    background-color: #303030;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px gray;
+}
+
+.anclas2{
+    font-family: system-ui;
+    color: #05FFBC;
+}
